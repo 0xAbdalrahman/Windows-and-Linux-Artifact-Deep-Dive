@@ -23,8 +23,8 @@ To understand how different operating systems generate, store, and preserve fore
 
 <br>
 
-## 📅 Project Timeline
-### Week 1 – Windows Forensics
+# 📅 Project Timeline
+## Week 1 – Windows Forensics
 
 - Acquire memory using FTK Imager and analyze using Volatility.
 
@@ -32,10 +32,10 @@ To understand how different operating systems generate, store, and preserve fore
 
 - Extract browser history, cache, and user activity artifacts.
 
-#### 📄 Final Report:
+### 📄 Final Report: 
 https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
 
-### Week 2 – Linux Forensics
+## Week 2 – Linux Forensics
 
 - Analyze EXT4 partitions using The Sleuth Kit.
 
@@ -43,10 +43,10 @@ https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/
 
 - Perform RAM acquisition using LiME and analyze memory artifacts.
 
-#### 📄 Final Report:
+### 📄 Final Report:
 https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
 
-### Week 3 – Comparative Forensics
+## Week 3 – Comparative Forensics
 
 - Compare Windows vs. Linux artifact locations and behaviors.
 
@@ -54,7 +54,7 @@ https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/
 
 - Evaluate tool compatibility and cross-platform challenges.
 
-#### 📄 Final Report:
+### 📄 Final Report:
 https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
 
 ## Week 4 – Final Consolidation
@@ -63,4 +63,4 @@ https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/
 
 - Add legal considerations and proper evidence-handling procedures.
 
-#### 📄 Final Report:
+### 📄 Final Report:
