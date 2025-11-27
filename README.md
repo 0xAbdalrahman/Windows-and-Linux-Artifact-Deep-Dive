@@ -7,6 +7,11 @@ It explores memory forensics, file system analysis, log examination, and cross-p
 ## Project Purpose
 To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology for both environments.
 
+## Team Work 
+##### Abdo
+##### Moahemd
+##### Anas
+
 ## Project Timeline
 ### Week 1 – Windows Forensics
 
@@ -15,7 +20,8 @@ To understand how different operating systems generate, store, and preserve fore
 - Analyze Registry, Jump Lists, and Shellbags.
 
 - Extract browser history & cache.
-
+  
+#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
 
 ### Week 2 – Linux Forensics
 
@@ -25,6 +31,7 @@ To understand how different operating systems generate, store, and preserve fore
 
 - Perform RAM acquisition using LiME.
 
+#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
 
 ### Week 3 – Comparative Forensics
 
@@ -34,10 +41,14 @@ To understand how different operating systems generate, store, and preserve fore
 
 - Evaluate tool compatibility.
 
+#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
 
 ### Week 4 – Final Consolidation
 
 - Produce a unified Windows/Linux forensic guide.
 
 - Discuss legal considerations & evidence handling.
+
+#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
+
 
