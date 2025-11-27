@@ -31,7 +31,7 @@ To understand how different operating systems generate, store, and preserve fore
 
 - Extract browser history, cache, and user activity artifacts.
 
-### 📄 [Week 1 Report (Windows Forensics)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%201%20Report%20(Windows%20Forensics).pdf)
+### 📄 [Week 1 (Windows Forensics)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%201%20Report%20(Windows%20Forensics).pdf)
 
 
 
@@ -44,8 +44,8 @@ To understand how different operating systems generate, store, and preserve fore
 
 - Perform RAM acquisition using LiME and analyze memory artifacts.
 
-### 📄 Report:
-https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
+### 📄 [Week 2 (Linux Forensics)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%202%20(Linux%20Forensics).pdf)  
+
 
 ## Week 3 – Comparative Forensics
 
@@ -55,8 +55,8 @@ https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/
 
 - Evaluate tool compatibility and cross-platform challenges.
 
-### 📄 Report:
-https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
+### 📄 [Week 3 (Comparative Forensics)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%203%20Report%20(Comparative%20Forensics).pdf)  
+
 
 ## Week 4 – Final Consolidation
 
@@ -64,4 +64,5 @@ https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/
 
 - Add legal considerations and proper evidence-handling procedures.
 
-### 📄 Report:
+### 📄 [Week 4 (Consolidated Forensics Handbook)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%204%20(Consolidated%20Forensics%20Handbook).pdf)
+
