@@ -31,8 +31,10 @@ To understand how different operating systems generate, store, and preserve fore
 
 - Extract browser history, cache, and user activity artifacts.
 
-### 📄 Report: 
-https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
+### 📄 [Week 1 Report (Windows Forensics)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%201%20Report%20(Windows%20Forensics).pdf)
+
+
+
 
 ## Week 2 – Linux Forensics
 
