@@ -1,54 +1,59 @@
 # Windows and Linux Artifact Deep Dive
-## DEPI Graduation Project - Digital Forensics Track
+## DEPI Graduation Project – Digital Forensics Track
 
-This project is part of a graduation requirement and focuses on a deep forensic analysis of Windows and Linux operating system artifacts. 
-It explores memory forensics, file system analysis, log examination, and cross-platform evidence comparison.
+This project is part of the DEPI graduation requirements and focuses on a deep forensic exploration of Windows and Linux operating system artifacts.
+The work includes memory forensics, file system analysis, log examination, and a cross-platform comparison of evidence sources.
 
-## Project Purpose
-To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology for both environments.
+## 🎯 Project Purpose
 
-## Team Work 
-##### Abdo
-##### Moahemd
-##### Anas
+To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology that works across both Windows and Linux environments.
 
-## Project Timeline
+## 👥 Team Members
+
+Abdo
+
+Mohamed
+
+Anas
+
+## 📅 Project Timeline
 ### Week 1 – Windows Forensics
 
-- Acquire memory using FTK Imager / Volatility.
+- Acquire memory using FTK Imager and analyze using Volatility.
 
-- Analyze Registry, Jump Lists, and Shellbags.
+- Investigate Registry hives, Jump Lists, and Shellbags.
 
-- Extract browser history & cache.
-  
-#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
+- Extract browser history, cache, and user activity artifacts.
+
+#### 📄 Final Report:
+https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
 
 ### Week 2 – Linux Forensics
 
-- Analyze EXT4 partitions using Sleuth Kit.
+- Analyze EXT4 partitions using The Sleuth Kit.
 
-- Recover deleted Bash history & examine logs.
+- Recover deleted Bash history and examine system logs.
 
-- Perform RAM acquisition using LiME.
+- Perform RAM acquisition using LiME and analyze memory artifacts.
 
-#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
+#### 📄 Final Report:
+https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
 
 ### Week 3 – Comparative Forensics
 
-- Compare Windows vs Linux artifacts.
+- Compare Windows vs. Linux artifact locations and behaviors.
 
-- Analyze timestamp formats, encodings, and user activity trails.
+- Analyze timestamp formats, encodings, and user-activity trails.
 
-- Evaluate tool compatibility.
+- Evaluate tool compatibility and cross-platform challenges.
 
-#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
+#### 📄 Final Report:
+https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/README.md
 
-### Week 4 – Final Consolidation
+## Week 4 – Final Consolidation
 
-- Produce a unified Windows/Linux forensic guide.
+- Produce a unified Windows/Linux forensic investigation guide.
 
-- Discuss legal considerations & evidence handling.
+- Add legal considerations and proper evidence-handling procedures.
 
-#### Fional reprpt  https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/edit/main/README.md
-
-
+#### 📄 Final Report:
