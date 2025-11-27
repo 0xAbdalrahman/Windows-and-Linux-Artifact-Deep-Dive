@@ -2,14 +2,13 @@
 
 ## 🎓 DEPI Graduation Project – Digital Forensics Track (ONL3_ISS7_S1)
 
-This graduation project is part of the DEPI Training Program – Digital Forensics Track.
-It focuses on a deep forensic exploration of Windows and Linux operating system artifacts, including memory forensics, file system analysis, log examination, and cross-platform evidence comparison.
+##### This graduation project, part of the DEPI Digital Forensics Track, focuses on investigating Windows and Linux artifacts. It explores different artifacts across both operating systems to analyze evidence and develop practical forensic skills.
 
 <br>
 
 ## 🎯 Project Purpose
 
-To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology that works across both Windows and Linux environments.
+##### To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology that works across both Windows and Linux environments.
 
 <br>
 
