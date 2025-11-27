@@ -1,8 +1,9 @@
 # Windows and Linux Artifact Deep Dive
-## DEPI Graduation Project – Digital Forensics Track
 
-This project is part of the DEPI graduation requirements and focuses on a deep forensic exploration of Windows and Linux operating system artifacts.
-The work includes memory forensics, file system analysis, log examination, and a cross-platform comparison of evidence sources.
+## 🎓 DEPI Graduation Project – Digital Forensics Track
+
+This graduation project is part of the DEPI Training Program – Digital Forensics Track.
+It focuses on a deep forensic exploration of Windows and Linux operating system artifacts, including memory forensics, file system analysis, log examination, and cross-platform evidence comparison.
 
 ## 🎯 Project Purpose
 
