@@ -5,17 +5,23 @@
 This graduation project is part of the DEPI Training Program – Digital Forensics Track.
 It focuses on a deep forensic exploration of Windows and Linux operating system artifacts, including memory forensics, file system analysis, log examination, and cross-platform evidence comparison.
 
+<br>
+
 ## 🎯 Project Purpose
 
 To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology that works across both Windows and Linux environments.
 
+<br>
+
 ## 👥 Team Members
 
-Abdo
+#### 1. Abdelrahman Mohamed Ibrahim
 
-Mohamed
+#### 2. Mohamed Rabie
 
-Anas
+#### 3. Anas Mahmoud 
+
+<br>
 
 ## 📅 Project Timeline
 ### Week 1 – Windows Forensics
