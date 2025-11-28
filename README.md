@@ -6,7 +6,7 @@
 
 <br>
 
-## 🎯 Project Purpose
+## 🎯 Project Objective
 
 ##### To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology that works across both Windows and Linux environments.
 
@@ -14,11 +14,12 @@
 
 ## 👥 Team Members
 
-#### 1. Abdelrahman Mohamed Ibrahim   <a href="https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" style="border-radius:50%;"></a>
+#### 1. Abdelrahman Mohamed Ibrahim <a href="https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24" height="24"></a>
 
-#### 2. Mohamed Rabie Awad  <a href="https://www.linkedin.com/in/mohamed-rabia/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" style="border-radius:50%;"></a>
+#### 2. Mohamed Rabie Awad  <a href="https://www.linkedin.com/in/mohamed-rabia/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24" height="24"></a>
 
-#### 3. Anas Mahmoud Husseni  <a href="https://www.linkedin.com/in/anas-dawood-b40a87259/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" style="border-radius:50%;"></a>
+#### 3. Anas Mahmoud Husseni  <a href="https://www.linkedin.com/in/anas-dawood-b40a87259/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24" height="24"></a>
+
 <br>
 
 # 📅 Project Timeline
