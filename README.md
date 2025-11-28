@@ -58,7 +58,7 @@
 ### 📄 [Week 3 (Comparative Forensics)](https://github.com/0xAbdalrahman/Windows-and-Linux-Artifact-Deep-Dive/blob/main/Reports/Week%203%20Report%20(Comparative%20Forensics).pdf)  
 
 
-## Week 4 – Final Consolidation
+## Week 4 – Consolidated Forensics Handbook
 
 - Produce a unified Windows/Linux forensic investigation guide.
 
