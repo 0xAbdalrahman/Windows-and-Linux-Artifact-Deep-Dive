@@ -10,6 +10,8 @@
 
 ##### To understand how different operating systems generate, store, and preserve forensic artifacts, and to build a unified investigation methodology that works across both Windows and Linux environments.
 
+#### Supervision: Eng. Hassnaa Elwan
+
 <br>
 
 ## 👥 Team Members
