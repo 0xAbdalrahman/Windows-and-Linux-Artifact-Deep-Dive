@@ -31,9 +31,8 @@
 
 - Extract browser history, cache, and user activity artifacts.
 
-### 📄 [Week 1 (Windows Forensics)](https://drive.google.com/file/d/1IGVHw5MNDslIKrWaHcZYmyj0bGdQqcIe/view?usp=drive_link)
-
-
+### 📄 [Week 1 (Windows Forensics)](https://drive.google.com/file/d/1IGVHw5MNDslIKrWaHcZYmyj0bGdQqcIe/view?usp=drive_link) 
+By Anas Mahmoud Husseni
 
 
 ## Week 2 – Linux Forensics
@@ -45,6 +44,7 @@
 - Perform RAM acquisition using LiME and analyze memory artifacts.
 
 ### 📄 [Week 2 (Linux Forensics)](https://drive.google.com/file/d/1ykzjmPDRjPzWnQkZTFrPgP4Et2PwtJi1/view?usp=sharing)  
+By Abdelrahman Mohamed Ibrahim
 
 
 ## Week 3 – Comparative Forensics
@@ -56,6 +56,7 @@
 - Evaluate tool compatibility and cross-platform challenges.
 
 ### 📄 [Week 3 (Comparative Forensics)](https://drive.google.com/file/d/1KSfqoj3gO-isvxDLHpWIwKLrTQjY1EZa/view?usp=drive_link)  
+By Mohamed Rabie Awad
 
 
 ## Week 4 – Consolidated Forensics Handbook
@@ -65,4 +66,5 @@
 - Add legal considerations and proper evidence-handling procedures.
 
 ### 📄 [Week 4 (Consolidated Forensics Handbook)](https://drive.google.com/file/d/1EIe_vTVg3zb-9Njhu1jPuna3cOUszBzb/view?usp=drive_link)
+By Abdelrahman Mohamed Ibrahim
 
