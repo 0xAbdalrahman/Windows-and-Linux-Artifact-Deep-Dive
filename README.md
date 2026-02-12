@@ -1,6 +1,6 @@
 # Windows and Linux Artifact Deep Dive
 
-## 🎓 DEPI Graduation Project – Digital Forensics Track (ONL3_ISS7_S1)
+## 🎓 DEPI Graduation Project – Digital Forensics Track 
 
 ##### This graduation project, part of the DEPI Digital Forensics Track, focuses on investigating Windows and Linux artifacts. It explores different artifacts across both operating systems to analyze evidence and develop practical forensic skills.
 
