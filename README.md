@@ -2,7 +2,7 @@
 
 ## 🎓 DEPI Graduation Project – Digital Forensics Track 
 
-##### This graduation project, part of the DEPI Digital Forensics Track, focuses on investigating Windows and Linux artifacts. It explores different artifacts across both operating systems to analyze evidence and develop practical forensic skills.
+##### This graduation project, part of the Digital Egypt Pioneers Initiative - DEPI (Digital Forensics Track), focuses on investigating Windows and Linux artifacts. It explores different artifacts across both operating systems to analyze evidence and develop practical forensic skills.
 
 <br>
 
